@@ -74,4 +74,22 @@ This console application performs various mathematical operations on user inputs
 
 - Please refer to the code comments for detailed explanations of each step.
 
+## Car Insurance Approval Program
+
+This is a simple console application that determines whether an applicant qualifies for car insurance based on age, DUI history, and the number of speeding tickets.
+
+### Requirements
+
+- Applicants must be over 15 years old.
+- Applicants must not have any DUI's.
+- Applicants must not have more than 3 speeding tickets.
+
+### Usage
+
+1. Run the program.
+2. Enter the applicant's age when prompted.
+3. Enter 'true' or 'false' to indicate if the applicant has ever had a DUI.
+4. Enter the number of speeding tickets the applicant has.
+5. The program will display whether the applicant is qualified or not.
+
 
