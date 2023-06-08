@@ -74,7 +74,7 @@ This console application performs various mathematical operations on user inputs
 
 - Please refer to the code comments for detailed explanations of each step.
 
-## Car Insurance Approval Program
+## Boolean Logic Assignment | Car Insurance Approval Program
 
 This is a simple console application that determines whether an applicant qualifies for car insurance based on age, DUI history, and the number of speeding tickets.
 
