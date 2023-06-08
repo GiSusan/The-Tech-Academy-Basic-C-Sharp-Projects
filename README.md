@@ -1,4 +1,4 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# Collection of assignments and projects from my C# course
 
 ## Math and Comparison Operators (Assignment) | Anonymous Income Comparison Program
 
