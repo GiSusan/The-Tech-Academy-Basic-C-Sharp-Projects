@@ -93,3 +93,46 @@ This is a simple console application that determines whether an applicant qualif
 5. The program will display whether the applicant is qualified or not.
 
 
+## Package Express
+
+Welcome to Package Express, a console application for getting a shipping quote for a package.
+
+### Description
+
+The Package Express application allows users to calculate the shipping quote for a package based on its weight and dimensions. It prompts the user to enter the package weight, width, height, and length, and performs various checks and calculations to determine if the package qualifies for shipping and to calculate the shipping quote.
+
+The application follows the following steps:
+
+1. Displays a welcome message to the user.
+
+2. Prompts the user to enter the package weight. If the weight is greater than 50, an error message is displayed, and the program terminates.
+
+3. If the weight is within the acceptable range, the user is prompted to enter the package width, height, and length. If the total dimensions exceed 50, an error message is displayed, and the program terminates.
+
+4. If the dimensions are within the acceptable range, the program calculates the shipping quote by multiplying the total dimensions by the weight and dividing the result by 100.
+
+5. The calculated shipping quote is then displayed to the user as a dollar amount, rounded to two decimal places.
+
+6. Finally, a thank you message is displayed, and the program ends.
+
+### Getting Started
+
+To run the Package Express application, follow these steps:
+
+1. Ensure you have a C# development environment set up (e.g., Visual Studio, Visual Studio Code, or a compatible compiler).
+
+2. Create a new C# project.
+
+3. Copy the provided code into the project file.
+
+4. Build and run the application.
+
+5. Follow the on-screen instructions and enter the required information to get the shipping quote.
+
+### Development
+
+The application is written in C# and uses the console for input and output. It employs basic conditional statements and calculations to determine the eligibility for shipping and calculate the quote.
+
+The code includes comments to explain the purpose of each line or block and facilitate understanding for other developers.
+
+
