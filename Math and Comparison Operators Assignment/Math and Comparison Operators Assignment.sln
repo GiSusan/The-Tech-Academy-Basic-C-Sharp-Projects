@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math and Comparison Operators Assignment", "Math and Comparison Operators Assignment.csproj", "{DFA0FDCB-36AB-4153-9E4A-3B5A80ED785E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA0FDCB-36AB-4153-9E4A-3B5A80ED785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA0FDCB-36AB-4153-9E4A-3B5A80ED785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA0FDCB-36AB-4153-9E4A-3B5A80ED785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA0FDCB-36AB-4153-9E4A-3B5A80ED785E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7018D1B-D413-4023-B017-0FC6B64830E6}
+	EndGlobalSection
+EndGlobal
