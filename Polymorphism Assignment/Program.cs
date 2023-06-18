@@ -13,7 +13,7 @@ namespace ConsoleApp
     {
         public string Name { get; set; }
 
-        // Implementing the Quit() method form the IQuittable interface
+        // Implementing the Quit() method from the IQuittable interface
         public void Quit()
         {
             Console.WriteLine("Employee quits the job."); // Display a message when the Quit() method is called
