@@ -14,7 +14,7 @@ The `Employee` class also overloads the `==` operator to compare two `Employee` 
 
 ## Usage
 
-1. Clone or download the repsitory.
+1. Clone or download the repository.
 2. Open the solution in your preferred development environment (e.g., Visual Studio).
 3. Build the solution to restore dependencies and compile the code.
 4. Run the application.
