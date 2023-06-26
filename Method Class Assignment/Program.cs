@@ -1,18 +1,27 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace MathOperationsApp
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            // Instantiate the MathOperations class
+            int number1 = 5;
+            int number2 = 10;
+
+            // 2- Instantiate class
             MathOperations mathOps = new MathOperations();
 
-            // Call the method in the class, passing in two numbers
-            mathOps.PerformMathOperation(5, 10);
+            // 3 -Call the method in the class, passing in two numbers
+            mathOps.PerformMathOperation(number1, number2);
 
-            // Wait for user input before exiting
+            // 4- Call the method in the class, specifying the parameters by name
+            mathOps.PerformMathOperation(firstNumber: number1, secondNumber: number2);
+
             Console.ReadLine();
         }
     }
