@@ -51,6 +51,8 @@ C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\roslyn\vbc.rsp
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\roslyn\VBCSCompiler.exe
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\Antlr3.Runtime.dll
+C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\EntityFramework.dll
+C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\EntityFramework.SqlServer.dll
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.WebPages.Deployme
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.WebPages.dll
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.WebPages.Razor.dll
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\WebGrease.dll
+C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\EntityFramework.xml
+C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\EntityFramework.SqlServer.xml
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.Helpers.xml
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.Mvc.xml
 C:\Users\FiercePC\OneDrive\Desktop\CarInsurance\bin\System.Web.Optimization.xml
