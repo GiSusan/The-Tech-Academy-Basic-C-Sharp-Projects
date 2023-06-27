@@ -136,3 +136,32 @@ The application is written in C# and uses the console for input and output. It e
 The code includes comments to explain the purpose of each line or block and facilitate understanding for other developers.
 
 
+## Student Database - Console Application
+
+The Student Database Console Application is a .NET Core application that allows you to add a student to a database using the Entity Framework Code-First approach. It provides a simple command-line interface for entering the student name and storing it in the database.
+
+### Description
+
+The Student Database Console Application enables you to interactively add students to a database by entering their names. It utilizes the Entity Framework Code-First approach, which automatically generates the underlying database schema based on the defined entity classes. The application establishes a connection to the database, adds the student with the entered name, and saves the changes.
+
+### Prerequisites
+
+Before running the application, make sure you have the following:
+
+- .NET Core SDK installed on your machine.
+- A compatible database server (such as SQL Server) available for the application to connect to.
+
+### Usage
+
+1. Run the application.
+
+2. When prompted, enter the name of the student you want to add.
+
+3. The application will connect to the database, add the student with the entered name, and save the changes.
+
+4. Upon successful addition, the application will display a message indicating that the student has been added.
+
+5. Press any key to exit the application.
+
+
+
