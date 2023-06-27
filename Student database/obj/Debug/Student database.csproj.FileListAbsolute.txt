@@ -1,0 +1,13 @@
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\Student database.exe.config
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\Student database.exe
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\Student database.pdb
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\EntityFramework.dll
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\EntityFramework.xml
+C:\Users\FiercePC\OneDrive\Desktop\Student database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.csproj.AssemblyReference.cache
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.csproj.SuggestedBindingRedirects.cache
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.csproj.CopyComplete
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.exe
+C:\Users\FiercePC\OneDrive\Desktop\Student database\obj\Debug\Student database.pdb
