@@ -1,0 +1,31 @@
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.staticwebassets.runtime.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.exe
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.deps.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.runtimeconfig.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.dll
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\bin\Debug\net6.0\Visual Studio Assignment.pdb
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.csproj.AssemblyReference.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.AssemblyInfoInputs.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.AssemblyInfo.cs
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.RazorAssemblyInfo.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.RazorAssemblyInfo.cs
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Visual Studio Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Visual Studio Assignment.props
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Visual Studio Assignment.props
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Visual Studio Assignment.props
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\scopedcss\bundle\Visual Studio Assignment.styles.css
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Visual Studio Assignment.bundle.scp.css
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.dll
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\refint\Visual Studio Assignment.dll
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.pdb
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\Visual Studio Assignment.genruntimeconfig.cache
+C:\Users\FiercePC\OneDrive\Desktop\Visual Studio Assignment\obj\Debug\net6.0\ref\Visual Studio Assignment.dll
